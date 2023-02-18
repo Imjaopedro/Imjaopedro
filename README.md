@@ -6,7 +6,10 @@
 
 ![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imjaopedro&show_icons=true&theme=dracula)
 
-### Tecnologias que uso nos meus dias
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imjaopedro)](https://github.com/Imjaopedro/github-readme-stats)
+
+### Tecnologias que uso no dia-dia
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
