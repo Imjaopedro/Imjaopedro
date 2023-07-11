@@ -4,10 +4,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-do-vale-claudio-9bab01266/)
 
-![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imjaopedro&show_icons=true&theme=dracula)
+![Vale's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imjaopedro&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imjaopedro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imjaopedro)](https://github.com/Imjaopedro/github-readme-stats)
 
 ### Tecnologias que uso no dia-dia
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
